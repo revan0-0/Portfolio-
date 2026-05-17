@@ -63,7 +63,7 @@ git clone https://github.com/revan0-0/portfolio
 2. Open `portfolio.html` in your browser
 
 OR view it live at:
-**[revan0-0.github.io/portfolio](https://revan0-0.github.io/portfolio)**
+**[revan0-0.github.io/portfolio](https://revan0-0.github.io/Portfolio-)**
 
 ---
 
